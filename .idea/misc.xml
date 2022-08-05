@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2195" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/drawable/tab_border.xml" value="0.304" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/drawable/tab_list_item_border.xml" value="0.1955" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/drawable/tab_list_select.xml" value="0.1955" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/child_recyclerview_item.xml" value="0.33" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/classic_fragment.xml" value="0.34057971014492755" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/classic_listview_menu_item.xml" value="0.4276155717761557" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/classic_listview_tab_item.xml" value="0.3099647266313933" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/classic_recyclerview_item.xml" value="0.34057971014492755" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/classic_tab_listview_item.xml" value="0.1875" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/fragment_home.xml" value="0.2653985507246377" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/fragment_my.xml" value="0.2653985507246377" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/fragment_recommend.xml" value="0.34057971014492755" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/fragment_shoppinglist.xml" value="0.2653985507246377" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/layout/season_fragment.xml" value="0.34057971014492755" />
+        <entry key="..\:/Android_wsy/AndroidWorkSpace/GreenDrink/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android_wsy/Android_SDK/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
