@@ -1,12 +1,14 @@
 package com.android.greendrink.data
 
-import android.graphics.drawable.Drawable
-import android.media.Image
-import com.android.greendrink.R
-import com.bumptech.glide.load.engine.Resource
+import androidx.room.ColumnInfo
+import androidx.room.Entity
+import androidx.room.PrimaryKey
 
-class Goods(
-    var imageResource: Int,
+@Entity
+data class Goods(
+    @PrimaryKey(autoGenerate = true) val goodsId: Int? = 0,
+    @ColumnInfo(name = "tab_name") val tabName: String?,
+    var imageResource: Int?,
     var name: String?,
     var price: Int?
 )
